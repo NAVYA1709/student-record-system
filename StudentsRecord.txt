@@ -1,0 +1,20 @@
+Name : navya
+ Age : 19
+ Marks : 98.0
+
+Name : amal
+ Age : 20
+ Marks : 96.0
+
+Name : neha
+ Age : 21
+ Marks : 89.0
+
+Name : magi
+ Age : 17
+ Marks : 86.0
+
+Name : jash
+ Age : 23
+ Marks : 94.0
+
